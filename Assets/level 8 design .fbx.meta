@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: e9a1731d7ba17134db9c43b9619a3df5
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candle_.001
+    second: {fileID: 2100000, guid: d986d09fca21b644d82030a90bbfa267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawing_Board_M
+    second: {fileID: 2100000, guid: 8b418669f5cac6a4fb5a14fe75ad6e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: e3b40d764f846154bbb74f07ac17c114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Dark1
+    second: {fileID: 2100000, guid: 97c0bc4572742b44ca2c28dc0123e097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scale 0-100
+    second: {fileID: 2100000, guid: f3a496f72efb80345a2317f4670bc1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table Base Color1
+    second: {fileID: 2100000, guid: 2ee04a127efbdcb478dd1ac29768dcb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teal Emission_
+    second: {fileID: 2100000, guid: 714111887a58e6447bb04100d2f972ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teal No Emission1
+    second: {fileID: 2100000, guid: 905bb39fa2e4d1a4a94fcd134d2f278f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: compass
+    second: {fileID: 2100000, guid: 731135205b730b242a9379cc4dbef695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass slab
+    second: {fileID: 2100000, guid: 7488f6a2d489fd04cbe39499fb9c67b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 5be3d117053a6114e8a4469dee333bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1.001
+    second: {fileID: 2100000, guid: 2e8db5f227fae9746b71f5a4d10d5a7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1.002
+    second: {fileID: 2100000, guid: 42b11ba741c7fdc45a493ea5c2aae415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: df3f3d341d884b8449e82166d88eb8fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white paper
+    second: {fileID: 2100000, guid: 58a3d3428b206c4469904b4f8c8ac1a8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Candle_Candle_Normal
+    second: {fileID: 2800000, guid: 1821a39be93d7854e8881aba1f7ef112, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drawing Board_Drawing_Board_M_AlbedoTransparency
+    second: {fileID: 2800000, guid: 15379e4422de59747ba844ead25ce1e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drawing Board_Drawing_Board_M_MetallicSmoothness
+    second: {fileID: 2800000, guid: d28fd4262995d1641a6a219bd8765b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drawing Board_Drawing_Board_M_Normal
+    second: {fileID: 2800000, guid: 0f73dc766de4ba34cb3ab6a386f46074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prism_Prism_M_AlbedoTransparency
+    second: {fileID: 2800000, guid: d4eeb81c672bb9f4e90c369c8cf59501, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prism_Prism_M_MetallicSmoothness
+    second: {fileID: 2800000, guid: c2920313a4d1bb345877e19ed0428597, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prism_Prism_M_Normal
+    second: {fileID: 2800000, guid: 9fe63454cb03ad24ba55fdebf5d77b77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scale 0-100____1
+    second: {fileID: 2800000, guid: d8c9d053381b60e438f243d16b4c0b6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drawing pins_2k_AlbedoTransparency
+    second: {fileID: 2800000, guid: bbdf2f519f681014fbecccc075789ec3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drawing pins_2k_MetallicSmoothness
+    second: {fileID: 2800000, guid: 5c1e41a48b1e99647be5e556767459cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drawing pins_2k_Normal
+    second: {fileID: 2800000, guid: 4734aecb947d94246b126910a82c21cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: geometric compass_DefaultMaterial_AlbedoTransparency
+    second: {fileID: 2800000, guid: 2492242f7cd433c4eaec1ecb9c345a69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: geometric compass_DefaultMaterial_MetallicSmoothness
+    second: {fileID: 2800000, guid: bb9a4b48d9eb3de408eb93402da28d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: geometric compass_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 125323583fb20cb4fb40b01cd3427496, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pencil 3_2K_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7f50e98325eb4a844b8396553f73f1ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pencil 3_2K_MetallicSmoothness
+    second: {fileID: 2800000, guid: c2a85c4b6c6424042829185be2747ab4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pencil 3_2K_Normal
+    second: {fileID: 2800000, guid: 546b1b91867b123459f21cfb58ca7ca9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: protractor_2k_AlbedoTransparency
+    second: {fileID: 2800000, guid: dd88947bdaa78e74ca5f0cb5d4da5684, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: protractor_2k_MetallicSmoothness
+    second: {fileID: 2800000, guid: a36b9133e8d09364bbb65b41234c6254, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: protractor_2k_Normal
+    second: {fileID: 2800000, guid: a1b32b9dc67f1604f89dbe037d19dcee, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
