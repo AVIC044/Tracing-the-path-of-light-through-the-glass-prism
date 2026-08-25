@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
+  m_Name: Question (2)
+  m_EditorClassIdentifier: 
+  questionText: 2. The images of the pins formed when we see through the prism are
+  referenceImage: {fileID: 0}
+  explanationText: When we see the pins through the prism, we see the refracted rays,
+    and these refracted rays appear to come from the images of the pins and hence
+    we can say that the images of real objects are always virtual and erect.
+  options:
+  - real and inverted
+  - virtual and erect
+  - real and erect
+  - virtual and Inverted
+  correctOptionIndex: 1

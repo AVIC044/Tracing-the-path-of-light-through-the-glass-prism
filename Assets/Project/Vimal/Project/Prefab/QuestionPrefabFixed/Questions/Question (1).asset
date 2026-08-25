@@ -10,18 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
-  m_Name: Question1
+  m_Name: Question (1)
   m_EditorClassIdentifier: 
-  questionText: 'The angle formed between the two plane- refracting faces of a triangular
-    prism is called the
-
-'
+  questionText: 1. In the experiment, when we see the pins through the prism, we
+    see
   referenceImage: {fileID: 0}
-  explanationText: The angle between two lateral refracting faces or surfaces of
-    a prism is called the angle of the prism.
+  explanationText: When we see the pins through the prism, we see the refracted rays,
+    and these refracted rays appear to come from the images of the pins.
   options:
-  - Angle of refraction
-  - Angle of emergence
-  - 'Angle of incidence '
-  - Angle of prism
-  correctOptionIndex: 3
+  - the pins used as objects
+  - the images of the pins
+  - both pins and their images
+  - None of the above
+  correctOptionIndex: 1

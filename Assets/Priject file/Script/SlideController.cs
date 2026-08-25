@@ -50,6 +50,7 @@ public class SlideController : MonoBehaviour
     protected HashSet<int> completedPages = new HashSet<int>();
 
     private HashSet<int> nextClickTriggeredPages = new HashSet<int>();
+    public static SlideController Instance { get; private set; }
 
     protected virtual void Start()
     {
@@ -105,7 +106,10 @@ public class SlideController : MonoBehaviour
         UpdatePage();
         UpdateButtonStates();
     }
-
+    public void Awake()
+    {
+        Instance = this;
+    }
     public void MarkPageCompleted()
     {
         if (!completedPages.Contains(currentPage))
