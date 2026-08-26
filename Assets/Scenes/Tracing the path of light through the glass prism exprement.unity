@@ -3636,7 +3636,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0379f4c2d246ba46aea08e1d733ae0b, type: 2}
+  - {fileID: 2100000, guid: 5555bc095003db7459c19a5af610e593, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29190,6 +29190,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6752963574009102103, guid: e63682b980708cb44ac0deb76efbd015, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a9c517ddb36bf1648a6fd036f49e7977, type: 3}
     - target: {fileID: 7995706292662144934, guid: e63682b980708cb44ac0deb76efbd015, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -44566,17 +44570,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UIPromptController
   pages:
   - pageName: Page 1
-    pageText: 'Tap the apparatus required to perform this
-
-      experiment.'
+    pageText: Tap the apparatus required to perform this experiment.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 2
-    pageText: 'Drag the white paper sheet and fix it on
-
-      the drawing board
-      using drawing pins.'
+    pageText: Drag the white paper sheet and fix it on the drawing board using drawing
+      pins.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44592,18 +44592,13 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 5
-    pageText: 'Drag the pencil and mark a point at the center of the line.
-
-      We
-      shall call it O<sub>1</sub>.'
+    pageText: Drag the pencil and mark a point at the center of the line. We shall
+      call it O<sub>1</sub>.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 6
-    pageText: 'Now, drag and place the prism such that its base
-
-      aligns with
-      line XY.'
+    pageText: Now, drag and place the prism such that its base aligns with line XY.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44631,24 +44626,18 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 11
-    pageText: 'Draw a line normal to line XY passing through
-
-      point O<sub>1</sub>.'
+    pageText: Draw a line normal to line XY passing through point O<sub>1</sub>.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 12
-    pageText: 'Mark a point at 35<sup>o</sup> with the normal,
-
-      so as to make
-      an angle of incidence.'
+    pageText: Mark a point at 35<sup>o</sup> with the normal, so as to make an angle
+      of incidence.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 13
-    pageText: 'Enter the angle of incidence in the observation
-
-      table.'
+    pageText: Enter the angle of incidence in the observation table.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44692,10 +44681,8 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 21
-    pageText: 'Draw an emergent ray joining the marked points
-
-      P<sub>3</sub> 
-      and P<sub>4</sub> .'
+    pageText: Draw an emergent ray joining the marked points P<sub>3</sub>  and P<sub>4</sub>
+      .
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44720,24 +44707,20 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 26
-    pageText: "Now measure the angle of deviation \u03B4 and enter\nthe value in
-      the observation table."
+    pageText: "Now measure the angle of deviation \u03B4 and enter the value in the
+      observation table."
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 27
-    pageText: 'Click on "Reset" and repeat the experiment for
-
-      some more angles
-      of incidence.'
+    pageText: Click on "Reset" and repeat the experiment for some more angles of
+      incidence.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 28
-    pageText: 'Mark another point at 40<sup>o</sup> with the normal
-
-      as the
-      angle of incidence.'
+    pageText: Mark another point at 40<sup>o</sup> with the normal as the angle of
+      incidence.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44780,18 +44763,14 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 36
-    pageText: 'Using the pencil, mark the positions
-
-      of pins P<sub>3</sub>
-      and P<sub>4</sub> .'
+    pageText: Using the pencil, mark the positions of pins P<sub>3</sub> and P<sub>4</sub>
+      .
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 37
-    pageText: 'Draw an emergent ray joining the marked points
-
-      P<sub>3</sub>
-      and P<sub>4</sub> .'
+    pageText: Draw an emergent ray joining the marked points P<sub>3</sub> and P<sub>4</sub>
+      .
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44812,24 +44791,19 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 41
-    pageText: "Now measure the angle of deviation \u03B4 and enter\nthe value in
-      the observation table."
+    pageText: "Now measure the angle of deviation \u03B4 and enter the value in the
+      observation table."
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 42
-    pageText: 'Move Next page to repeat the experiment for
-
-      some more angles
-      of incidence.'
+    pageText: Move Next page to repeat the experiment for some more angles of incidence.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 43
-    pageText: 'Mark another point at 45<sup>o</sup>with the normal
-
-      as the
-      angle of incidence.'
+    pageText: Mark another point at 45<sup>o</sup>with the normal as the angle of
+      incidence.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44855,18 +44829,14 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 48
-    pageText: 'View the images of pins P<sub>1</sub> and P<sub>2</sub>  from the
-      opposite face of the prism and make them
-
-      collinear.'
+    pageText: View the images of pins P<sub>1</sub> and P<sub>2</sub>  from the opposite
+      face of the prism and make them collinear.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 49
-    pageText: 'Fix pins P<sub>3</sub>  and P<sub>4</sub> such that the feet of all
-
-      four
-      pins are in one straight line.'
+    pageText: Fix pins P<sub>3</sub>  and P<sub>4</sub> such that the feet of all
+      four pins are in one straight line.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44876,18 +44846,13 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 51
-    pageText: 'Using the pencil, mark the positions
-
-      of pins P<sub>3</sub>
-      and P<sub>4</sub> .'
+    pageText: Using the pencil, mark the positions of pins P<sub>3</sub> and P<sub>4</sub>
+      .
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 52
-    pageText: 'Draw an emergent ray joining the marked points
-
-      P<sub>3</sub>
-      and P<sub>3</sub>.'
+    pageText: Draw an emergent ray joining the marked points P<sub>3</sub> and P<sub>3</sub>.
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -44907,8 +44872,8 @@ MonoBehaviour:
     showAlternatePanels: 0
     alternatePanels: []
   - pageName: Page 56
-    pageText: "Now measure the angle of deviation \u03B4 and enter\nthe value in
-      the observation table."
+    pageText: "Now measure the angle of deviation \u03B4 and enter the value in the
+      observation table."
     showDialogBox: 1
     showAlternatePanels: 0
     alternatePanels: []
@@ -47792,8 +47757,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -47824,7 +47789,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -12.755889, y: -7.9457455, z: -30.228561, w: -12.412678}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -48848,7 +48813,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 80, y: -102}
+  m_AnchoredPosition: {x: 101.6, y: -102}
   m_SizeDelta: {x: 52.9664, y: 52.9664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &583092514757150729
@@ -50457,8 +50422,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -50489,7 +50454,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 10.7949295, y: -9.61013, z: -55.489006, w: -15.127859}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -54241,8 +54206,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -54273,7 +54238,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: -10.560034, z: -42.904564, w: -12.463964}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -54782,7 +54747,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 80.999664, y: -10}
+  m_AnchoredPosition: {x: 101.5, y: -10}
   m_SizeDelta: {x: 52.9664, y: 52.9664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2678110347052749345
@@ -56359,8 +56324,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -56391,7 +56356,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -24.402649, y: -6.2546024, z: -19.505096, w: -14.938908}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -63989,7 +63954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 82.4, y: -117.9}
+  m_AnchoredPosition: {x: 100.7, y: -117.9}
   m_SizeDelta: {x: 52.9664, y: 52.9664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &6681602062134319038
@@ -64080,7 +64045,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 83, y: -124}
+  m_AnchoredPosition: {x: 93.5, y: -124}
   m_SizeDelta: {x: 52.9664, y: 52.9664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &6716139625069644127
@@ -64707,7 +64672,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 80, y: -108.999985}
+  m_AnchoredPosition: {x: 92.7, y: -108.999985}
   m_SizeDelta: {x: 52.9664, y: 52}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6891492492514767139
@@ -65078,7 +65043,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -876546973899608171, guid: 950a43f364c83be439b1eebad3c1faba, type: 3}
+  - {fileID: 2100000, guid: 5555bc095003db7459c19a5af610e593, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -65387,8 +65352,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -65419,7 +65384,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -22.70095, y: -12.050285, z: -20.13404, w: -8.705069}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -66491,8 +66456,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -66523,7 +66488,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -9.667862, y: -9.41954, z: -33.24652, w: -12.741766}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -68754,7 +68719,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 83, y: -117.00001}
+  m_AnchoredPosition: {x: 92.9, y: -117.00001}
   m_SizeDelta: {x: 52.9664, y: 52.9664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8495881376038290196
