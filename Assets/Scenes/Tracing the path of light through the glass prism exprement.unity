@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 6d4404e6e8152d24d8589d9054641098, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -20188,7 +20188,7 @@ Transform:
   m_GameObject: {fileID: 877333659}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.000114, y: -0, z: 0.000128}
+  m_LocalPosition: {x: -0.000021, y: -0.000048, z: 0.000128}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -21785,10 +21785,10 @@ RectTransform:
   - {fileID: 688042127}
   - {fileID: 633166299}
   - {fileID: 531920434}
-  - {fileID: 7170269}
   - {fileID: 523789358527756611}
   - {fileID: 559558436}
   - {fileID: 1318278147}
+  - {fileID: 7170269}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -29098,6 +29098,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2817550726475846910, guid: e63682b980708cb44ac0deb76efbd015, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 588603859}
+    - target: {fileID: 2817550726475846910, guid: e63682b980708cb44ac0deb76efbd015, type: 3}
+      propertyPath: questionData
+      value: 
+      objectReference: {fileID: 11400000, guid: 491937fc68e428d42964504a20fc3d25, type: 2}
     - target: {fileID: 2817550726475846910, guid: e63682b980708cb44ac0deb76efbd015, type: 3}
       propertyPath: OnCorrectAnswer.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 1
@@ -50114,7 +50122,7 @@ Transform:
   m_GameObject: {fileID: 3237890514371448779}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0016369348, y: 0, z: 0.000055408476}
+  m_LocalPosition: {x: -0.001613, y: 0, z: 0.000055408476}
   m_LocalScale: {x: 1.2959628, y: 1.2959628, z: 1.2959628}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -51863,7 +51871,7 @@ Transform:
   m_GameObject: {fileID: 6718831747365546607}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -0.18428874, y: -0.031210065, z: 0.2977631}
+  m_LocalPosition: {x: -0.2902, y: -0.0343, z: -0.06819001}
   m_LocalScale: {x: 50, y: 50, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children:

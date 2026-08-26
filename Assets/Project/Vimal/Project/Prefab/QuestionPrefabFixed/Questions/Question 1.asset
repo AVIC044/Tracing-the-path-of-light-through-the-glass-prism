@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
-  m_Name: Question (2)
+  m_Name: Question 1
   m_EditorClassIdentifier: 
-  questionText: 2. The images of the pins formed when we see through the prism are
+  questionText: 1. In the experiment, when we see the pins through the prism, we
+    see
   referenceImage: {fileID: 0}
   explanationText: When we see the pins through the prism, we see the refracted rays,
-    and these refracted rays appear to come from the images of the pins and hence
-    we can say that the images of real objects are always virtual and erect.
+    and these refracted rays appear to come from the images of the pins.
   options:
-  - real and inverted
-  - virtual and erect
-  - real and erect
-  - virtual and Inverted
+  - the pins used as objects
+  - the images of the pins
+  - both pins and their images
+  - None of the above
   correctOptionIndex: 1
